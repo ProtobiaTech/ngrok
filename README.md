@@ -2,16 +2,17 @@ ngrok service by protobia.agency
 ========================================
 
 
+
 ## Usage
 
 ```
-./ngrok17 -config .ngrok.yml -subdomain my-ngrok 80
+./ngrok-* -config ngrok.yml -subdomain my-ngrok 80
 ```
 
 or
 
 ```
-./ngrok17 -config .ngrok.yml start web
+./ngrok-* -config ngrok.yml start web
 ```
 
 ## Reference
